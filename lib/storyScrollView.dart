@@ -32,7 +32,7 @@ class StoryScrollView extends StatelessWidget {
                       alignment: Alignment.topLeft,
                       decoration: BoxDecoration(
                         image: DecorationImage(
-                          image: NetworkImage(addresses2[index]), // Use the correct list name
+                          image: NetworkImage(addresses2[index]),
                           fit: BoxFit.cover,
                         ),
                         shape: BoxShape.circle,
