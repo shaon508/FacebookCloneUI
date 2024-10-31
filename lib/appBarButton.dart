@@ -22,7 +22,7 @@ class appBarButton extends StatelessWidget {
             ),
             child: IconButton(
               onPressed: () {},
-              icon: Icon(Icons.add, color: Colors.black), // Added color for visibility
+              icon: Icon(Icons.add, color: Colors.black), 
             ),
 
           ),
@@ -36,7 +36,7 @@ class appBarButton extends StatelessWidget {
             ),
             child: IconButton(
               onPressed: () {},
-              icon: Icon(Icons.search, color: Colors.black), // Added color for visibility
+              icon: Icon(Icons.search, color: Colors.black), 
             ),
           ),
           SizedBox(width: 10,),
@@ -49,7 +49,7 @@ class appBarButton extends StatelessWidget {
             ),
             child: IconButton(
               onPressed: () {},
-              icon: Icon(Icons.message_rounded, color: Colors.black), // Added color for visibility
+              icon: Icon(Icons.message_rounded, color: Colors.black), 
             ),
 
           ),
